@@ -15,11 +15,6 @@ My interests lie at the intersection of mechanical design, 3D printing, electron
 🧠 Mechatronics
 🚀 Engineering Projects
 
-📫 Connect With Me
-
-📧 Email: sandeepbidnurmath@gmail.com
-💼 GitHub: Sandy-909
-
 ⚡ "Design. Build. Test. Improve."
 
 Thanks for visiting my profile!

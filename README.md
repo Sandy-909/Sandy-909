@@ -1,16 +1,25 @@
 ## Hi there 👋
+I'm a Automation & Robotics Engineer.
 
-<!--
-**Sandy-909/Sandy-909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like designing and building real-world robotic/mechatronics systems.
 
-Here are some ideas to get you started:
+My interests lie at the intersection of mechanical design, 3D printing, electronics, embedded systems, and automation. I enjoy taking an idea from CAD design all the way to a functional prototype.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Interests
+
+🤖 Robotics & Automation
+🖨️ 3D Printing
+⚙️ Mechanical Design
+🔧 Prototyping & Manufacturing
+🔌 Embedded Systems
+🧠 Mechatronics
+🚀 Engineering Projects
+
+📫 Connect With Me
+
+📧 Email: sandeepbidnurmath@gmail.com
+💼 GitHub: Sandy-909
+
+⚡ "Design. Build. Test. Improve."
+
+Thanks for visiting my profile!

@@ -3,7 +3,7 @@ I'm a Automation & Robotics Engineer.
 
 I like designing and building real-world robotic/mechatronics systems.
 
-My interests lie at the intersection of mechanical design, 3D printing, electronics, embedded systems, and automation. I enjoy taking an idea from CAD design all the way to a functional prototype.
+My interests lie at mechanical design, 3D printing, electronics, embedded systems, and automation. I enjoy taking an idea from CAD design all the way to a functional prototype.
 
 🎯 Interests
 

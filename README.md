@@ -10,17 +10,10 @@ Interests
 Robotics & Automation
 
 3D Printing
-
 Mechanical Design
-
 Prototyping & Manufacturing
-
 Embedded Systems
-
 Mechatronics
-
 Engineering Projects
-
-"Design. Build. Test. Improve."
 
 Thanks for visiting my profile!

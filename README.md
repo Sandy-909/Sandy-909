@@ -5,15 +5,5 @@ I like designing and building real-world robotic/mechatronics systems.
 
 My interests mechanical design, 3D printing, electronics, embedded systems, and automation. I enjoy taking an idea from CAD design all the way to a functional prototype.
 
-Interests
 
-Robotics & Automation
 
-3D Printing
-Mechanical Design
-Prototyping & Manufacturing
-Embedded Systems
-Mechatronics
-Engineering Projects
-
-Thanks for visiting my profile!
